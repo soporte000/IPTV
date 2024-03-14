@@ -1,0 +1,89 @@
+#EXTM3U
+#EXTINF:0 type="stream" channelId="2686", TNT SERIES
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/TNTSERIESHD/__op/hls-default/__f/index.m3u8
+#EXTINF:0 type="stream" channelId="895", TCM
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/TCM/__op/hls-default/__f/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", PARAMOUNT HD
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/PARAMOUNT/__op/hls-default/__f/index.m3u8
+#EXTINF:0 type="stream" channelId="207", NATGEO HD
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/NATGEOHD/__op/hls-default/__f/index.m3u8
+#EXTINF:0 type="stream" channelId="57", DISCOVERY CHANNEL
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/DISCOVERYCHANNELHD/__op/hls-default/__f/index.m3u8
+#EXTINF:0 type="stream" channelId="2839", Discovery World
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/DISCOVERYWORLDHD/__op/hls-default/__f/index.m3u8
+#EXTINF:0 type="stream" channelId="58", Discovery Science
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/DISCOVERYSCIENCE/__op/hls-default/__f/index.m3u8
+#EXTINF:0 type="stream" channelId="3770", Investigation Discovery HD
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/IDHD/__op/hls-default/__f/index.m3u8
+#EXTINF:0 type="stream" channelId="41", NICKELODEON
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/NICKELODEONHD/__op/hls-default/__f/index.m3u8
+#EXTINF:0 type="stream" channelId="2625", STUDIO UNIVERSAL
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/STUDIOUNIVERSALHD/__op/hls-default/__f/index.m3u8
+#EXTINF:0 type="stream" channelId="50", ANIMAL PLANET
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/ANIMALPLANETHD/__op/hls-default/__f/index.m3u8
+#EXTINF:0 type="stream" channelId="56", NATGEO
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/NATGEOHD/__op/hls-default/__f/index.m3u8
+#EXTINF:0 type="stream" channelId="2626", TRU TV
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/TRUTVHD/__op/hls-default/__f/index.m3u8
+#EXTINF:0 type="stream" channelId="3763", Glitz
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/GLITZ/__op/hls-default/__f/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", CNN ESPA�OL
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/CNNESPANOL/__op/hls-default/__f/index.m3u8
+#EXTINF:0 type="stream" channelId="1973", MTV
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/MTVHD/__op/hls-default/__f/index.m3u8
+#EXTINF:0 type="stream" channelId="57", DISCOVERY CHANNEL
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/DISCOVERYCHANNELHD/__op/hls-default/__f/index.m3u8
+#EXTINF:0 type="stream" channelId="58", DISCOVERY SCIENCE
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/DISCOVERYSCIENCE/__op/hls-default/__f/index.m3u8
+#EXTINF:0 type="stream" channelId="2839", DISCOVERY WORLD
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/DISCOVERYWORLDHD/__op/hls-default/__f/index.m3u8
+#EXTINF:0 type="stream" channelId="59", Discovery Investigation
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/IDHD/__op/hls-default/__f/index.m3u8
+#EXTINF:0 type="stream" channelId="289", MTV HITS
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/MTVHITS/__op/hls-default/__f/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://i.ibb.co/CQbTVyw/BOLIVISION-HD-SANTA-CRUZ.jpg", BOLIVISION SANTA CRUZ HD
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/BOLIVISION/__op/hls-default/__f/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://i.ibb.co/MpBHD7b/ATB-SCZ-HD-NEW.jpg", ATB SCZ HD
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/ATB/__op/hls-default/__f/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="http://www.tucableip.com/canales/evento.png", EVENTOS DIGITAL 1
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/EVENTOSDIGITAL1/__op/hls-default/__f/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="http://www.tucableip.com/canales/evento.png", EVENTOS DIGITAL 2
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/EVENTOSDIGITAL2/__op/hls-default/__f/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="http://www.tucableip.com/canales/evento.png", EVENTOS DIGITAL 3
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/EVENTOSDIGITAL3/__op/hls-default/__f/index.m3u8
+#EXTINF:0 type="stream" channelId="4799", PAT
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/PAT/__op/hls-default/__f/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png", Gigavision
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/GIGAVISION/__op/hls-default/__f/index.m3u8
+#EXTINF:0 type="stream" channelId="322" logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png", Nick Jr
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/NICKJRHD/__op/hls-default/__f/index.m3u8
+#EXTINF:0 type="stream" channelId="3789" logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png", Telefe
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/TELEFEHD/__op/hls-default/__f/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png", Enlace Juvenil
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/EJTV/__op/hls-default/__f/index.m3u8
+#EXTINF:0 type="stream" channelId="2409" logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png", El Trece
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/ELTRECE/__op/hls-default/__f/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png", Disney Jr
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/DISNEYJR/__op/hls-default/__f/index.m3u8
+#EXTINF:0 type="stream" channelId="1198" logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png", Disney XD
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/DISNEYXD/__op/hls-default/__f/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", UNITEL
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/UNITEL/__op/hls-default/__f/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://i.ibb.co/TWtcPV/TVU-SCZ-HD.jpg", TVU SCZ HD
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/TVUNIVERSITARIA/__op/hls-default/__f/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV GLOBO
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/TVGLOBO/__op/hls-default/__f/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://3abn.org/img/logos/tv/3ABN.png", 3ABN
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/3ABN/__op/hls-default/__f/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://play-lh.googleusercontent.com/1QJpYkVJcEdAAowMCbriMAf1_cAdOU19PA9z77-3ld6js4aI1FpdIaeMHRtwkVB6nlQ", YTN
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/CCTV/__op/hls-default/__f/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", CADENA A (HD)-LA PAZ
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/CADENAA/__op/hls-default/__f/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="http://tvmi.com.bo/wp-content/uploads/sites/2/2018/11/logoredunonew.png", RED UNO HD-STA CRUZ
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/REDUNO/__op/hls-default/__f/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV BOLIVIA
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/BOLIVIATV/__op/hls-default/__f/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV BOLIVIA HD
+http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", ABYAYALA
+https://master.tucableip.com:443/abyayalatv/tracks-v1a1/mono.m3u8
