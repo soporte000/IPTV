@@ -36,6 +36,9 @@ https://linear-259.frequency.stream/mt/studio/259/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="02-LOCALES" tvg-logo="",Canal 5
 https://linear-351.frequency.stream/mt/studio/351/hls/master/playlist.m3u8
 
+#EXTINF:-1 group-title="02-LOCALES" tvg-logo="",Azteca 7
+https://tvazteca-live-cdn-mdstrm-com.akamaized.net/live-stream/609ad46a7a441137107d7a81/publish/media_1500.m3u8?aid=5fea09a071a9945deebf5f7c&pid=mz2kolSNR1nG6e4kZ8TkblHgPrL6b96N&sid=uUA2BfAtCxRwaNMPqy5eyKEOyPMuccxW&uid=zNI3pkvVCsT2dspkoAjLNGO31OMZxWbr&es=tvazteca-live-cdn-mdstrm-com.akamaized.net&ote=1703947467082&ot=yEqCQ8lT_iw3Yf-7CajfyA&proto=https&pz=us
+
 #EXTINF:-1 group-title="02-LOCALES" tvg-logo="",El Nu9ve
 https://linear-352.frequency.stream/mt/studio/352/hls/master/playlist.m3u8
 
