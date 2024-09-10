@@ -36,4 +36,14 @@ http://archive.org/download/listasaqui_ymail4_Alf/DROOPY.m3u
  
 https://archive.org/download/kkkkk_202101/C4n170%26C4nu70.m3u
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/y6DH71k/AMERICAN-DAD.png",AMERICAN DAD
+http://archive.org/download/ladarius34b_k964n_mygeoweb_2/AD1.m3u
+
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/MALCOLM EL DE EN MEDIO.jpg",MALCOLM EL DE EN MEDIO
+http://archive.org/download/uaufderharl_c922j_ymail4_Lis1/lis1.m3u
+
+#EXTINF:-1 tvg-logo="http://archive.org/download/0124101001011/POKEMON.jpg" group-title="Animes",POKEMON
+https://archive.org/download/ns_20210520/pokemon.m3u
+
+
 
