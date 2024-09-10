@@ -83,3 +83,15 @@ https://archive.org/download/ns_20210520/LA%20JOVEN%20LIGA.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/2225464552/LAS AVENTURAS DE SUPER MARIO BROS 3.jpg" ,LAS AVENTURAS DE SUPER MARIO BROS 3
 https://archive.org/download/ns_20210520/mario.m3u
 
+#EXTINF:-1 tvg-logo="" ,BOB ESPONJA
+https://archive.org/download/ns_20210520/bob%20espoja.m3u
+
+#EXTINF:-1 tvg-logo="" ,DIGIMON
+https://archive.org/download/ns_20210520/DIGI.m3u
+
+#EXTINF:-1 tvg-logo="http://archive.org/download/2225464552/BATMAN LA SERIE ANIMADA.jpg" ,BATMAN LA SERIE ANIMADA
+https://archive.org/download/ns_20210520/BAT%20SER.m3u
+
+#EXTINF:-1 tvg-logo="http://archive.org/download/2225464552/CANTINFLAS SHOW.jpg" group-title="Caricaturas retro",CANTINFLAS SHOW
+https://archive.org/download/ns_20210520/CANTIN.m3u
+
