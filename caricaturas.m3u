@@ -24,6 +24,13 @@ https://dl.dropbox.com/s/5ifsd71jj10jsi7/LJT.m3u
  
 http://archive.org/download/lapanterarosa_202001/La%20Pantera%20Rosa.m3u
 
+#EXTINF:-1 tvg-logo="http://archive.org/download/2225464552/TOM Y JERRY.jpg" ,TOM Y JERRY
+https://archive.org/download/ns_20210520/Tom%20y%20jerry.m3u
+
+#EXTINF:-1 tvg-logo="" ,SUPERSONICOS
+https://archive.org/download/ns_20210520/SUPERSON.m3u
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VxRjj30/garfield-y-sus-amigos.png" ,GARFIELD Y SUS AMIGOS
  
 http://archive.org/download/garfieldysusamigos_202007/garfieldysusamigos.m3u
@@ -36,6 +43,12 @@ http://archive.org/download/listasaqui_ymail4_Alf/DROOPY.m3u
  
 https://archive.org/download/kkkkk_202101/C4n170%26C4nu70.m3u
 
+#EXTINF:-1 tvg-logo="http://archive.org/download/2225464552/EL CONDE PATULA.jpg",EL CONDE PATULA
+https://archive.org/download/ns_20210520/patula.m3u
+
+#EXTINF:-1 tvg-logo="http://archive.org/download/2225464552/LA MASCARA .jpg",LA MASCARA 
+https://archive.org/download/ns_20210520/la-mascara-serie-animada.m3u
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/y6DH71k/AMERICAN-DAD.png",AMERICAN DAD
 http://archive.org/download/ladarius34b_k964n_mygeoweb_2/AD1.m3u
 
@@ -45,5 +58,24 @@ http://archive.org/download/uaufderharl_c922j_ymail4_Lis1/lis1.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/0124101001011/POKEMON.jpg",POKEMON
 https://archive.org/download/ns_20210520/pokemon.m3u
 
+#EXTINF:-1 tvg-logo="http://archive.org/download/0124101001011/SUPER CAMPEONES (CAPTAIN TSUBASA).jpg" ,SUPER CAMPEONES (CAPTAIN TSUBASA)
+http://archive.org/download/SUPCAM/SUPCAM.m3u
 
+#EXTINF:-1 tvg-logo="http://archive.org/download/0124101001011/DRAGON BALL Z.jpg" ,DRAGON BALL Z
+https://archive.org/download/ns_20210520/DRBZ.m3u
+
+#EXTINF:-1 tvg-logo="http://archive.org/download/0124101001011/DRAGON BALL SUPER (LATINO).jpg" ,DRAGON BALL SUPER (LATINO)
+https://archive.org/download/ns_20210520/DBSL.m3u
+
+#EXTINF:-1 tvg-logo="http://archive.org/download/entertaiment09/dr480nb4ll.jpg" ,Dragon Ball
+http://archive.org/download/DRBALL/DRBALL.m3u
+
+#EXTINF:-1 tvg-logo="http://archive.org/download/2225464552/HEY ARNOLD.jpg",HEY ARNOLD
+https://archive.org/download/ns_20210520/hey.m3u
+
+#EXTINF:-1 tvg-logo="http://archive.org/download/2225464552/LA JOVEN LIGA DE LA JUSTICIA.jpg" ,LA JOVEN LIGA DE LA JUSTICIA
+https://archive.org/download/ns_20210520/LA%20JOVEN%20LIGA.m3u
+
+#EXTINF:-1 tvg-logo="http://archive.org/download/2225464552/LAS AVENTURAS DE SUPER MARIO BROS 3.jpg" ,LAS AVENTURAS DE SUPER MARIO BROS 3
+https://archive.org/download/ns_20210520/mario.m3u
 
