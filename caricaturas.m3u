@@ -1,38 +1,38 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fnDFBLq/Phineas-y-Ferb-menu.png" group-title="cartoon",PHINEAS Y FERB temp 01
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fnDFBLq/Phineas-y-Ferb-menu.png" ,PHINEAS Y FERB temp 01
  
 http://archive.org/download/PHIFER/PHIFER.m3u
 
-#EXTINF:-1 tvg-logo="http://archive.org/download/2225464552/THUNDERCATS.jpg" grupo-title="dibujos animados",THUNDERCATS
+#EXTINF:-1 tvg-logo="http://archive.org/download/2225464552/THUNDERCATS.jpg" ,THUNDERCATS
  
 http://archive.org/download/mio72_yopmail_TC/TC.m3u
 
-#EXTINF:-1 tvg-logo="http://archive.org/download/makafusu/5h0w.jpg" grupo-title="dibujos animados",LA de CHARLIE BROWN Y SNOOPY SHOW
+#EXTINF:-1 tvg-logo="http://archive.org/download/makafusu/5h0w.jpg" ,LA de CHARLIE BROWN Y SNOOPY SHOW
  
 http://archive.org/download/makafusu/5CH4RL13.m3u
 
-#EXTINF:-1 tvg-logo="http://archive.org/download/2225464552/LOS PICA PIEDRAS.jpg" group-title="cartoon",LOS PICA PIEDRAS
+#EXTINF:-1 tvg-logo="http://archive.org/download/2225464552/LOS PICA PIEDRAS.jpg" ,LOS PICA PIEDRAS
  
 http://archive.org/download/streamingFullHD/streamingFull.m3u
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bNTnqfx/descarga-1-1.jpg" group-title="cartoon",Los jóvenes titanes 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bNTnqfx/descarga-1-1.jpg" ,Los jóvenes titanes 
  
 https://dl.dropbox.com/s/5ifsd71jj10jsi7/LJT.m3u
 
-#EXTINF:-1 tvg-logo="http://archive.org/download/2225464552/LA PANTERA ROSA.jpg" grupo-title="dibujos animados", " LA PANTERA ROSA
+#EXTINF:-1 tvg-logo="http://archive.org/download/2225464552/LA PANTERA ROSA.jpg" , " LA PANTERA ROSA
  
 http://archive.org/download/lapanterarosa_202001/La%20Pantera%20Rosa.m3u
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VxRjj30/garfield-y-sus-amigos.png" group-title="cartoon",GARFIELD Y SUS AMIGOS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VxRjj30/garfield-y-sus-amigos.png" ,GARFIELD Y SUS AMIGOS
  
 http://archive.org/download/garfieldysusamigos_202007/garfieldysusamigos.m3u
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qgxQTGP/droopy.png" group-title="cartoon",DROOPY
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qgxQTGP/droopy.png" ,DROOPY
  
 http://archive.org/download/listasaqui_ymail4_Alf/DROOPY.m3u
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PMT31nh/Canito-y-Canuto.png" group-title="cartoon",CANITO & CANUTO
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PMT31nh/Canito-y-Canuto.png" ,CANITO & CANUTO
  
 https://archive.org/download/kkkkk_202101/C4n170%26C4nu70.m3u
 
@@ -42,7 +42,7 @@ http://archive.org/download/ladarius34b_k964n_mygeoweb_2/AD1.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/MALCOLM EL DE EN MEDIO.jpg",MALCOLM EL DE EN MEDIO
 http://archive.org/download/uaufderharl_c922j_ymail4_Lis1/lis1.m3u
 
-#EXTINF:-1 tvg-logo="http://archive.org/download/0124101001011/POKEMON.jpg" group-title="Animes",POKEMON
+#EXTINF:-1 tvg-logo="http://archive.org/download/0124101001011/POKEMON.jpg",POKEMON
 https://archive.org/download/ns_20210520/pokemon.m3u
 
 
