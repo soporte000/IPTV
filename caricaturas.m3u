@@ -92,6 +92,12 @@ https://archive.org/download/ns_20210520/DIGI.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/2225464552/BATMAN LA SERIE ANIMADA.jpg" ,BATMAN LA SERIE ANIMADA
 https://archive.org/download/ns_20210520/BAT%20SER.m3u
 
-#EXTINF:-1 tvg-logo="http://archive.org/download/2225464552/CANTINFLAS SHOW.jpg" group-title="Caricaturas retro",CANTINFLAS SHOW
+#EXTINF:-1 tvg-logo="http://archive.org/download/2225464552/CANTINFLAS SHOW.jpg",CANTINFLAS SHOW
 https://archive.org/download/ns_20210520/CANTIN.m3u
+
+#EXTINF:-1 tvg-logo="" ,PIERNAS LOCAS
+https://archive.org/download/PIERNASLOCAS/PIERNASLOCAS.m3u
+
+#EXTINF:-1 tvg-logo="" ,LA HORMIGA Y EL OSO
+https://archive.org/download/lahormigayeloso/lahormigayeloso.m3u
 
