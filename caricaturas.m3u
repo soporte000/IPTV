@@ -1,8 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vWhzjxoHLrvl7JUKNDoXUfNqF2x.jpg" group-title="Cartoon Network",LA VACA Y EL POLLITO
+https://archive.org/download/ns_20210520/VACAPOLLO.m3u
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fnDFBLq/Phineas-y-Ferb-menu.png" ,PHINEAS Y FERB temp 01
  
 http://archive.org/download/PHIFER/PHIFER.m3u
+
+
 
 #EXTINF:-1 tvg-logo="http://archive.org/download/2225464552/THUNDERCATS.jpg" ,THUNDERCATS
  
