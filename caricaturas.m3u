@@ -7,7 +7,6 @@ https://archive.org/download/ns_20210520/VACAPOLLO.m3u
 http://archive.org/download/PHIFER/PHIFER.m3u
 
 
-
 #EXTINF:-1 tvg-logo="http://archive.org/download/2225464552/THUNDERCATS.jpg" ,THUNDERCATS
  
 http://archive.org/download/mio72_yopmail_TC/TC.m3u
@@ -80,10 +79,12 @@ https://archive.org/download/ns_20210520/hey.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/2225464552/LA JOVEN LIGA DE LA JUSTICIA.jpg" ,LA JOVEN LIGA DE LA JUSTICIA
 https://archive.org/download/ns_20210520/LA%20JOVEN%20LIGA.m3u
 
+
 #EXTINF:-1 tvg-logo="http://archive.org/download/2225464552/LAS AVENTURAS DE SUPER MARIO BROS 3.jpg" ,LAS AVENTURAS DE SUPER MARIO BROS 3
 https://archive.org/download/ns_20210520/mario.m3u
 
-#EXTINF:-1 tvg-logo="" ,BOB ESPONJA
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/2225464552/BOB%20ESPONJA.jpg" ,BOB ESPONJA
 https://archive.org/download/ns_20210520/bob%20espoja.m3u
 
 #EXTINF:-1 tvg-logo="" ,DIGIMON
@@ -100,6 +101,25 @@ https://archive.org/download/PIERNASLOCAS/PIERNASLOCAS.m3u
 
 #EXTINF:-1 tvg-logo="" ,LA HORMIGA Y EL OSO 
 https://archive.org/download/lahormigayeloso/lahormigayeloso.m3u
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/maguila-gorila/maguila-gorila.thumbs/02%20Gridiron%20Gorila_000001.jpg", MAGUILA GORILA
+https://archive.org/download/magguilagorila/magguilagorila.m3u
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/la-hormiga-atomica/la-hormiga-atomica.thumbs/08.%20La%20hormiga%20m%C3%A1s%20veloz%20del%20oeste_000104.jpg",LA HORMIGA ATOMICA
+https://archive.org/download/lahormigaatomica/lahormigaatomica.m3u
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/HuckleberryHound58/HuckleberryHound58.thumbs/01%20Sheriff%20huckleberry_000257.jpg",huckleberry-hound
+https://archive.org/download/huckleberry-hound_202409/HuckleberryHound.m3u
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/don-gato-y-su-pandilla/don-gato-y-su-pandilla.thumbs/01DG_000324.jpg",don gato y su¨pandilla
+https://archive.org/download/dongatoysupandilla/dongatoysupandilla.m3u
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/pixie-dixie-jinks/pixie-dixie-jinks.thumbs/PDJ-02_000253.jpg",pixie dixie jinks
+https://archive.org/download/pixiedixiejinks/pixiedixiejinks.m3u
+
+#EXTINF:-1 tvg-logo="" ,FUTURAMA
+https://archive.org/download/ns_20210520/FUTURAMA.m3u
+
 
 #EXTINF:-1 tvg-logo="" ,EL CHAVO 1
 https://archive.org/serve/lo-mejor-del-chavo-dvdr-1/LoMejorDelChavo_DVDR1.mp4
