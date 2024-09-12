@@ -131,4 +131,7 @@ https://archive.org/download/sonic_202409/SONIC.m3u
 #EXTINF:-1 tvg-logo="https://ia801208.us.archive.org/18/items/BB0110/BB0110.thumbs/10_000294.jpg" ,BLAYBLADE
 https://archive.org/download/BLAYBLADE/BLAYBLADE.m3u
 
+#EXTINF:-1 tvg-logo="https://archive.org/download/LagartoJuancho62/LagartoJuancho62.thumbs/02_000170.jpg" ,LAGARTO GUANCHO
+https://archive.org/download/Lagartoguancho/Lagartoguancho.m3u
+
 
