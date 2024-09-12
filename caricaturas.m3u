@@ -3,29 +3,23 @@
 https://archive.org/download/ns_20210520/VACAPOLLO.m3u
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fnDFBLq/Phineas-y-Ferb-menu.png" ,PHINEAS Y FERB temp 01
- 
-http://archive.org/download/PHIFER/PHIFER.m3u
+ http://archive.org/download/PHIFER/PHIFER.m3u
 
 
 #EXTINF:-1 tvg-logo="http://archive.org/download/2225464552/THUNDERCATS.jpg" ,THUNDERCATS
- 
-http://archive.org/download/mio72_yopmail_TC/TC.m3u
+ http://archive.org/download/mio72_yopmail_TC/TC.m3u
 
 #EXTINF:-1 tvg-logo="http://archive.org/download/makafusu/5h0w.jpg" ,LA de CHARLIE BROWN Y SNOOPY SHOW
- 
-http://archive.org/download/makafusu/5CH4RL13.m3u
+ http://archive.org/download/makafusu/5CH4RL13.m3u
 
 #EXTINF:-1 tvg-logo="http://archive.org/download/2225464552/LOS PICA PIEDRAS.jpg" ,LOS PICA PIEDRAS
- 
-http://archive.org/download/streamingFullHD/streamingFull.m3u
+ http://archive.org/download/streamingFullHD/streamingFull.m3u
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bNTnqfx/descarga-1-1.jpg" ,Los jóvenes titanes 
- 
-https://dl.dropbox.com/s/5ifsd71jj10jsi7/LJT.m3u
+ https://dl.dropbox.com/s/5ifsd71jj10jsi7/LJT.m3u
 
 #EXTINF:-1 tvg-logo="http://archive.org/download/2225464552/LA PANTERA ROSA.jpg" , " LA PANTERA ROSA
- 
-http://archive.org/download/lapanterarosa_202001/La%20Pantera%20Rosa.m3u
+ http://archive.org/download/lapanterarosa_202001/La%20Pantera%20Rosa.m3u
 
 #EXTINF:-1 tvg-logo="http://archive.org/download/2225464552/TOM Y JERRY.jpg" ,TOM Y JERRY
 https://archive.org/download/ns_20210520/Tom%20y%20jerry.m3u
@@ -35,16 +29,13 @@ https://archive.org/download/ns_20210520/SUPERSON.m3u
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VxRjj30/garfield-y-sus-amigos.png" ,GARFIELD Y SUS AMIGOS
- 
-http://archive.org/download/garfieldysusamigos_202007/garfieldysusamigos.m3u
+ http://archive.org/download/garfieldysusamigos_202007/garfieldysusamigos.m3u
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qgxQTGP/droopy.png" ,DROOPY
- 
-http://archive.org/download/listasaqui_ymail4_Alf/DROOPY.m3u
+ http://archive.org/download/listasaqui_ymail4_Alf/DROOPY.m3u
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PMT31nh/Canito-y-Canuto.png" ,CANITO & CANUTO
- 
-https://archive.org/download/kkkkk_202101/C4n170%26C4nu70.m3u
+ https://archive.org/download/kkkkk_202101/C4n170%26C4nu70.m3u
 
 #EXTINF:-1 tvg-logo="http://archive.org/download/2225464552/EL CONDE PATULA.jpg",EL CONDE PATULA
 https://archive.org/download/ns_20210520/patula.m3u
@@ -97,7 +88,7 @@ https://archive.org/download/ns_20210520/BAT%20SER.m3u
 https://archive.org/download/ns_20210520/CANTIN.m3u
 
 #EXTINF:-1 tvg-logo="" ,PIERNAS LOCAS CRANE
-https://archive.org/download/PIERNASLOCAS/PIERNASLOCAS.m3u
+https://archive.org/download/PIERNASLOCASCRANE/PIERNASLOCASCRANE.m3u
 
 #EXTINF:-1 tvg-logo="" ,LA HORMIGA Y EL OSO 
 https://archive.org/download/lahormigayeloso/lahormigayeloso.m3u
