@@ -90,8 +90,8 @@ https://archive.org/download/ns_20210520/CANTIN.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/piernas-locas-crane-72/piernas-locas-crane-72.thumbs/PLC-01_000027.jpg" ,PIERNAS LOCAS CRANE
 https://archive.org/download/PIERNASLOCASCRANE/PIERNASLOCASCRANE.m3u
 
-#EXTINF:-1 tvg-logo="" ,LA HORMIGA Y EL OSO 
-https://archive.org/download/lahormigayeloso/lahormigayeloso.m3u
+#EXTINF:-1 tvg-logo="https://archive.org/download/la-hormiga-y-el-oso-hormiguero/la-hormiga-y-el-oso-hormiguero.thumbs/Cap%2002_000207.jpg" ,LA HORMIGA Y EL OSO 
+https://archive.org/download/la-hormiga-y-el-oso/la-hormiga-y-el-oso.m3u
 
 #EXTINF:-1 tvg-logo="https://archive.org/download/maguila-gorila/maguila-gorila.thumbs/02%20Gridiron%20Gorila_000001.jpg", MAGUILA GORILA
 https://archive.org/download/magguilagorila/magguilagorila.m3u
