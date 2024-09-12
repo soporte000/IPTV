@@ -87,7 +87,7 @@ https://archive.org/download/ns_20210520/BAT%20SER.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/2225464552/CANTINFLAS SHOW.jpg",CANTINFLAS SHOW
 https://archive.org/download/ns_20210520/CANTIN.m3u
 
-#EXTINF:-1 tvg-logo="https://archive.org/download/piernas-locas-crane-72/piernas-locas-crane-72.thumbs/PLC-01_000027.jpg" ,PIERNAS LOCAS CRANE
+#EXTINF:-1 tvg-logo="http://archive.org/download/piernas-locas-crane-72/piernas-locas-crane-72.thumbs/PLC-01_000027.jpg" ,PIERNAS LOCAS CRANE
 https://archive.org/download/PIERNASLOCASCRANE/PIERNASLOCASCRANE.m3u
 
 #EXTINF:-1 tvg-logo="" ,LA HORMIGA Y EL OSO 
