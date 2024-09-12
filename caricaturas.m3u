@@ -103,11 +103,13 @@ https://archive.org/download/MAGUILAGORILA/MAGUILAGORILA.m3u
 #EXTINF:-1 tvg-logo="https://archive.org/download/la-hormiga-atomica/la-hormiga-atomica.thumbs/08.%20La%20hormiga%20m%C3%A1s%20veloz%20del%20oeste_000104.jpg",LA HORMIGA ATOMICA
 https://archive.org/download/lahormigaatomica_20240912_1358/LAHORMIGAATOMICA.m3u
 
+
 #EXTINF:-1 tvg-logo="https://archive.org/download/HuckleberryHound58/HuckleberryHound58.thumbs/01%20Sheriff%20huckleberry_000257.jpg",huckleberry-hound
 https://archive.org/download/HUCKBERRY/HUCKBERRY.m3u
 
 #EXTINF:-1 tvg-logo="https://archive.org/download/don-gato-y-su-pandilla/don-gato-y-su-pandilla.thumbs/01DG_000324.jpg",don gato y su¨pandilla
 https://archive.org/download/dongatoysupandilla_20240912/DONGATOYSUPANDILLA.m3u
+
 
 #EXTINF:-1 tvg-logo="https://archive.org/download/el-nuevo-show-de-picapiedras/el-nuevo-show-de-picapiedras.thumbs/01.-%20La%20Bruja%20Dulce_000001.jpg",El nuevo show de los picapiedras
 https://archive.org/download/el-nuevo-show-picapiedras/EL%20NUEVO%20SHOW%20PICAPIEDRAS.m3u
@@ -115,5 +117,10 @@ https://archive.org/download/el-nuevo-show-picapiedras/EL%20NUEVO%20SHOW%20PICAP
 #EXTINF:-1 tvg-logo="https://archive.org/download/pixie-dixie-jinks/pixie-dixie-jinks.thumbs/PDJ-02_000253.jpg",PIXIE DIXIE JINKS
 https://archive.org/download/pixie-dixie-jinks_20240912/PIXIE-DIXIE-JINKS.m3u
 
-#EXTINF:-1 tvg-logo="" ,LO MEJOR DEL CHAVO 
+#EXTINF:-1 tvg-logo="https://dn720405.ca.archive.org/0/items/lo-mejor-del-chavo-dvdr-1/Chavo8Vol1_Portada.jpg" ,LO MEJOR DEL CHAVO 
 https://archive.org/download/el-chavo_202409/el-chavo.m3u
+
+#EXTINF:-1 tvg-logo="" ,
+
+#EXTINF:-1 tvg-logo="https://ia800502.us.archive.org/22/items/SonicXLatam/SonicXLatam.thumbs/Sonic%20X%2003_000468.jpg" ,SONIC
+https://archive.org/download/sonic_202409/SONIC.m3u
