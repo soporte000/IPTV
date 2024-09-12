@@ -70,10 +70,8 @@ https://archive.org/download/ns_20210520/hey.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/2225464552/LA JOVEN LIGA DE LA JUSTICIA.jpg" ,LA JOVEN LIGA DE LA JUSTICIA
 https://archive.org/download/ns_20210520/LA%20JOVEN%20LIGA.m3u
 
-
 #EXTINF:-1 tvg-logo="http://archive.org/download/2225464552/LAS AVENTURAS DE SUPER MARIO BROS 3.jpg" ,LAS AVENTURAS DE SUPER MARIO BROS 3
 https://archive.org/download/ns_20210520/mario.m3u
-
 
 #EXTINF:-1 tvg-logo="https://archive.org/download/2225464552/BOB%20ESPONJA.jpg" ,BOB ESPONJA
 https://archive.org/download/ns_20210520/bob%20espoja.m3u
@@ -90,8 +88,11 @@ https://archive.org/download/ns_20210520/BAT%20SER.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/2225464552/CANTINFLAS SHOW.jpg",CANTINFLAS SHOW
 https://archive.org/download/ns_20210520/CANTIN.m3u
 
+
+
+
 #EXTINF:-1 tvg-logo="http://archive.org/download/piernas-locas-crane-72/piernas-locas-crane-72.thumbs/PLC-01_000027.jpg" ,PIERNAS LOCAS CRANE
-https://archive.org/download/PIERNASLOCASCRANE/PIERNASLOCASCRANE.m3u
+https://archive.org/download/piernas-locas-crane-yo/PIERNAS%20LOCAS%20CRANE-YO.m3u
 
 #EXTINF:-1 tvg-logo="https://archive.org/download/la-hormiga-y-el-oso-hormiguero/la-hormiga-y-el-oso-hormiguero.thumbs/Cap%2002_000207.jpg" ,LA HORMIGA Y EL OSO 
 https://archive.org/download/la-hormiga-y-el-oso/la-hormiga-y-el-oso.m3u
@@ -113,8 +114,6 @@ https://archive.org/download/el-nuevo-show-de-picapiedras_202409/el-nuevo-show-d
 
 #EXTINF:-1 tvg-logo="https://archive.org/download/pixie-dixie-jinks/pixie-dixie-jinks.thumbs/PDJ-02_000253.jpg",PIXIE DIXIE JINKS
 https://archive.org/download/pixie-dixie-jinks_20240912/PIXIE-DIXIE-JINKS.m3u
-
-
 
 #EXTINF:-1 tvg-logo="" ,LO MEJOR DEL CHAVO 
 https://archive.org/download/el-chavo_202409/el-chavo.m3u
