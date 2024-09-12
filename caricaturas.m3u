@@ -124,3 +124,6 @@ https://archive.org/download/el-chavo_202409/el-chavo.m3u
 
 #EXTINF:-1 tvg-logo="https://ia800502.us.archive.org/22/items/SonicXLatam/SonicXLatam.thumbs/Sonic%20X%2003_000468.jpg" ,SONIC
 https://archive.org/download/sonic_202409/SONIC.m3u
+
+#EXTINF:-1 tvg-logo="https://ia801208.us.archive.org/18/items/BB0110/BB0110.thumbs/10_000294.jpg" ,BLAYBLADE
+https://archive.org/download/BLAYBLADE/BLAYBLADE.m3u
