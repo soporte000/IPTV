@@ -64,6 +64,9 @@ https://archive.org/download/ns_20210520/DBSL.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/entertaiment09/dr480nb4ll.jpg" ,Dragon Ball
 http://archive.org/download/DRBALL/DRBALL.m3u
 
+#EXTINF:-1 tvg-logo="https://archive.org/download/DBGT1x0130/DBGT1x0130.thumbs/1x02_001462.jpg" ,DBGT
+https://archive.org/download/dragon-ball-gt_202409/dragon%20ball%20gt.m3u
+
 #EXTINF:-1 tvg-logo="http://archive.org/download/2225464552/HEY ARNOLD.jpg",HEY ARNOLD
 https://archive.org/download/ns_20210520/hey.m3u
 
@@ -127,3 +130,5 @@ https://archive.org/download/sonic_202409/SONIC.m3u
 
 #EXTINF:-1 tvg-logo="https://ia801208.us.archive.org/18/items/BB0110/BB0110.thumbs/10_000294.jpg" ,BLAYBLADE
 https://archive.org/download/BLAYBLADE/BLAYBLADE.m3u
+
+
