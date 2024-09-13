@@ -147,6 +147,10 @@ https://archive.org/download/popeye_202409/POPEYE.m3u
 #EXTINF:-1 tvg-logo="https://archive.org/download/melquiades59/melquiades59.thumbs/01Melqui_000003.jpg", MELQUIADES
 https://archive.org/download/MELQUIADES/MELQUIADES.m3u
 
+
 #EXTINF:-1 tvg-logo="https://archive.org/download/las-nuevas-locuras-del-emperador/las-nuevas-locuras-del-emperador.thumbs/1x02%20Squeakend%20at%20Buckys%20-%20%20Fiebre%20de%20Kuzco%20-%20by%20Dark_000001.jpg
 " ,LAS LOCURAS DEL EMPETADOR
 https://archive.org/download/las-locuras-del-emperador_202409/LAS%20LOCURAS%20DEL%20EMPERADOR.m3u
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/melquiades59/melquiades59.thumbs/01Melqui_000003.jpg", MELQUIADES
+https://archive.org/download/leon-melquiades/LEON%20MELQUIADES.m3u
