@@ -143,3 +143,6 @@ https://archive.org/download/picapiedras-completo/PICAPIEDRAS%20COMPLETO.m3u
 
 #EXTINF:-1 tvg-logo="https://ia601309.us.archive.org/17/items/Popeye33/Popeye33.thumbs/Popeye%20El%20Marino%20-%20Feliz%20a%C3%B1o%20nuevo_000001.jpg" ,POPEYE EL MARINO
 https://archive.org/download/popeye_202409/POPEYE.m3u
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/melquiades59/melquiades59.thumbs/01Melqui_000003.jpg", MELQUIADES
+https://archive.org/download/MELQUIADES/MELQUIADES.m3u
