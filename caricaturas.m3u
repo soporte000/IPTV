@@ -123,7 +123,6 @@ https://archive.org/download/pixie-dixie-jinks_20240912/PIXIE-DIXIE-JINKS.m3u
 #EXTINF:-1 tvg-logo="https://dn720405.ca.archive.org/0/items/lo-mejor-del-chavo-dvdr-1/Chavo8Vol1_Portada.jpg" ,LO MEJOR DEL CHAVO 
 https://archive.org/download/el-chavo_202409/el-chavo.m3u
 
-//**#EXTINF:-1 tvg-logo="" ,**//
 
 #EXTINF:-1 tvg-logo="https://ia800502.us.archive.org/22/items/SonicXLatam/SonicXLatam.thumbs/Sonic%20X%2003_000468.jpg" ,SONIC
 https://archive.org/download/sonic_202409/SONIC.m3u
@@ -147,7 +146,11 @@ https://archive.org/download/popeye_202409/POPEYE.m3u
 
 
 #EXTINF:-1 tvg-logo="https://archive.org/download/las-nuevas-locuras-del-emperador/las-nuevas-locuras-del-emperador.thumbs/1x02%20Squeakend%20at%20Buckys%20-%20%20Fiebre%20de%20Kuzco%20-%20by%20Dark_000001.jpg" ,LAS LOCURAS EMPERADOR
-https://archive.org/download/las-locuras-del-emperador_202409/LAS%20LOCURAS%20DEL%20EMPERADOR.m3u
+https://archive.org/download/las-locuras-del-emperador_20240913/LAS%20LOCURAS%20DEL%20EMPERADOR.m3u
 
 #EXTINF:-1 tvg-logo="https://archive.org/download/melquiades59/melquiades59.thumbs/01Melqui_000003.jpg", MELQUIADES
 https://archive.org/download/leon-melquiades/LEON%20MELQUIADES.m3u
+
+
+#EXTINF:-1 tvg-logo="https://serieslan.com/tb/fma.jpg" ,LOS LOCOS ADAMS
+https://archive.org/download/los-locos-adams_202409/LOS%20LOCOS%20ADAMS.m3u
