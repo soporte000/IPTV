@@ -163,3 +163,9 @@ https://archive.org/download/conejo-ricochet/Conejo%20Ricochet.m3u
 
 #EXTINF:-1 tvg-logo="https://archive.org/download/mariojosemendezfigueredo_gmail_030/mariojosemendezfigueredo_gmail_030.thumbs/01%20-%2002%20-%2003%20Mighty%20Morphin/Temporada%201/001_000001.jpg" ,Power Rangers Mighty Morphin
 https://archive.org/download/power-rangers-mighty-morphin/Power%20Rangers%20Mighty%20Morphin.m3u
+
+#EXTINF:-1 tvg-logo="" ,El LABORATORIO DEXTER PRI
+https://archive.org/download/dexter-priv/DEXTER%20PRIV.m3u
+
+#EXTINF:-1 tvg-logo="" ,EL SHOW DEL PAJARO LOCO PRI
+https://archive.org/download/el-show-pajaro-loco/El-SHOW-PAJARO_LOCO.m3u
