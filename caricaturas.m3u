@@ -123,7 +123,7 @@ https://archive.org/download/pixie-dixie-jinks_20240912/PIXIE-DIXIE-JINKS.m3u
 #EXTINF:-1 tvg-logo="https://dn720405.ca.archive.org/0/items/lo-mejor-del-chavo-dvdr-1/Chavo8Vol1_Portada.jpg" ,LO MEJOR DEL CHAVO 
 https://archive.org/download/el-chavo_202409/el-chavo.m3u
 
-#EXTINF:-1 tvg-logo="" ,
+//**#EXTINF:-1 tvg-logo="" ,**//
 
 #EXTINF:-1 tvg-logo="https://ia800502.us.archive.org/22/items/SonicXLatam/SonicXLatam.thumbs/Sonic%20X%2003_000468.jpg" ,SONIC
 https://archive.org/download/sonic_202409/SONIC.m3u
@@ -137,7 +137,9 @@ https://archive.org/download/Lagartoguancho/Lagartoguancho.m3u
 #EXTINF:-1 tvg-logo="https://archive.org/download/TiroLocoMcGraw59LAT/TiroLocoMcGraw59LAT.thumbs/01.%20Scary%20Prairie_000198.jpg" ,TIRO LOCO
 https://archive.org/download/Tiroloco/Tiroloco.m3u
 
-
-
 #EXTINF:-1 tvg-logo="https://dn720303.ca.archive.org/0/items/los-picapiedra-1960/los-picapiedra-1960.thumbs/01x07-Las%20ni%C3%B1eras_001452.jpg",LOS PICAPIEDRAS COMPLETO
 https://archive.org/download/picapiedras-completo/PICAPIEDRAS%20COMPLETO.m3u
+
+
+#EXTINF:-1 tvg-logo="https://ia601309.us.archive.org/17/items/Popeye33/Popeye33.thumbs/Popeye%20El%20Marino%20-%20Feliz%20a%C3%B1o%20nuevo_000001.jpg" ,POPEYE EL MARINO
+https://archive.org/download/popeye_202409/POPEYE.m3u
