@@ -136,3 +136,9 @@ https://archive.org/download/Lagartoguancho/Lagartoguancho.m3u
 
 #EXTINF:-1 tvg-logo="https://archive.org/download/TiroLocoMcGraw59LAT/TiroLocoMcGraw59LAT.thumbs/01.%20Scary%20Prairie_000198.jpg" ,TIRO LOCO
 https://archive.org/download/Tiroloco/Tiroloco.m3u
+
+
+
+#EXTINF:-1 tvg-logo="http://archive.org/download/2225464552/LOS PICA PIEDRAS.jpg" ,LOS PICAPIEDRAS COMPLETO
+https://archive.org/download/picapiedrascompleto_202409/PICAPIEDRASCOMPLETO.m3u
+
