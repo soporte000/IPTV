@@ -174,7 +174,10 @@ https://archive.org/download/digimon-1/DIGIMON%201.m3u
 
 
 #EXTINF:-1 tvg-logo="https://archive.org/download/digimon-adventure-02-espanol-latino-etc-tv-rip-2017/digimon-adventure-02-espanol-latino-etc-tv-rip-2017.thumbs/Digimon%20Adventure%2002%20%5BEpisodio%2016%5D%20Espa%C3%B1ol%20Latino%20%28ETC%20TV%29_000672.jpg",DIGIMON TEMPORADA 2
-https://archive.org/download/digimon-2/DIGIMON%202.m3u
+https://archive.org/download/digimon-2_20240917/DIGIMON%202.m3u
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/pato-donald_202301/pato-donald_202301.thumbs/Mickey%20Mouse%20-%20Donald%20y%20Pluto_000001.jpg",EL PATO DONALD
+https://archive.org/download/donald_20240917/DONALD.m3u
 
 #EXTINF:-1 tvg-logo="" ,El LABORATORIO DEXTER PRI
 https://archive.org/download/dexter-priv/DEXTER%20PRIV.m3u
